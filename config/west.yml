@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: zmkfirmware
-      url-base: https://github.com/sergzver85/zmk/tree/main/app/boards/shields/reviung41
+      url-base: https://github.com/sergzver85/zmk
   projects:
     - name: zmk
       remote: zmkfirmware
